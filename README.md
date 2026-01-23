@@ -1,3 +1,6 @@
+# iu-project-data-analysis-nlp
+NLP-based topic extraction on Amazon Fine Food Reviews using (Google Colab) for IU Project: Data Analysis.
+
 📌 Project: NLP Topic Extraction on Amazon Fine Food Reviews
 Course
 

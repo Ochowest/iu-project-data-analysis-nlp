@@ -31,6 +31,5 @@ Google Colab
 
 pandas, numpy
 
-nltk / spaCy
-
-scikit-learn
+nltk / spaCy[requirements.txt](https://github.com/user-attachments/files/24831932/requirements.txt)
+[amazon_reviews_topic_modeling.ipynb](https://github.com/user-attachments/files/24831931/amazon_reviews_topic_modeling.ipynb)

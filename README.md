@@ -23,6 +23,8 @@ Vectorization using Bag-of-Words and TF-IDF
 
 Topic modeling using LDA and NMF
 
+Added topic prevalence computation (most dominant topic) and bar chart visualizations for LDA and NMF.
+
 Tools
 
 Python
